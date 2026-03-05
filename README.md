@@ -27,3 +27,4 @@
     "Gaming", "Code", "Drawing", "Music", "Spend time with friends","TV-Series"
   ]
 }
+<!-- bu readmeyi atakanelizden (abim) çaldım çok beğendiğim için! -->
