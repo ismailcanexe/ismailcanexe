@@ -1,16 +1,26 @@
-## Hi there 👋
+# <p align="center">![Header](https://capsule-render.vercel.app/render?type=venom&color=00ffcc&height=200&section=header&text=Hello!&fontSize=90&animation=fadeIn)</p>
 
-<!--
-**ismailcanexe/ismailcanexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "İsmail Can Gürel",
+  "located_in": "Bandırma, Türkiye",
+  "preferred_title": "Game Developer",
+  "education": [
+    "Self-Taught Developer",
+    "Onyedi Eylül Üniversitesi - Computer Programming (Continuing)"
+  ],
+  "fields_of_interests": [
+    "Game Development",
+    "Backend Development",
+    "New Techs",
+    "Modeling 3D Objects",
+    "2D Art",
+    "Other cool stuff"
+  ],
+  "currently_learning": [
+    "Unity", "Blender", "PHP", "Node.js", "ASP.NET", "SQL"
+  ],
+  "hobbies": [
+    "Gaming", "Code", "TV-Series", "Drawing", "Music", "Spend time with friends"
+  ]
+}
