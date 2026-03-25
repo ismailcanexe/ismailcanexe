@@ -25,7 +25,7 @@
     "Unity", "Blender", "PHP", "Node.js", "ASP.NET", "SQL"
   ],
   "hobbies": [
-    "Gaming", "Code", "Drawing", "Music", "Spend time with friends","TV-Series"
+    "Gaming", "Code", "Music", "Drawing", "Spend time with friends","TV-Series"
   ]
 }
 ```
