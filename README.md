@@ -23,7 +23,7 @@
   ],
   "proficient_in": [
     "Unity", 
-    "C#", 
+    "C#"
   ],
   "currently_learning": [
     "Unity", "Blender", "PHP", "ASP.NET", "SQL", "Node.js"
