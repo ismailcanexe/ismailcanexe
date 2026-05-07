@@ -21,6 +21,10 @@
     "2D Art",
     "Other cool stuff"
   ],
+  "proficient_in": [
+    "Unity", 
+    "C#", 
+  ],
   "currently_learning": [
     "Unity", "Blender", "PHP", "ASP.NET", "SQL", "Node.js"
   ],
