@@ -23,13 +23,15 @@
   ],
   "proficient_in": [
     "Unity", 
-    "C#"
+    "C#",
+    ".NET",
+    "ASP.NET"
   ],
   "currently_learning": [
-    "Unity", "Blender", "PHP", "ASP.NET", "SQL", "Node.js"
+     "Blender", "PHP", "SQL", "Node.js" , "React" 
   ],
   "hobbies": [
-    "Gaming", "Code", "Music", "Drawing", "Spend time with friends","TV-Series"
+    "Gaming", "Code", "Music", "Drawing", "Spend time with friends", "TV-Series", "Following Sports", "eat"
   ]
 }
 ```
